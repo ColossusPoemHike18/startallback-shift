@@ -38,4 +38,4 @@ The release provided here is scanned before it's published.
 > Run it as administrator if a step needs elevated access.
 
 ## Legal
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.  
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.   
